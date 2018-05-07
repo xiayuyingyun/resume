@@ -24,7 +24,7 @@ html, body {
     box-sizing: border-box;
 }
 .fp-slide {
-    float: left;
+    /*float: left;*/
 }
 .fp-slide, .fp-slidesContainer {
     height: 100%;
