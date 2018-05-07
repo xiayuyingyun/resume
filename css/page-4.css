@@ -32,7 +32,8 @@
 }
 
 #item-4 .thumbnail .caption {
-    color: #000000;
+    /*color: #000000;*/
+    color: #FFFFFF;
     padding: 9px;
     font-family: inherit;
 }
